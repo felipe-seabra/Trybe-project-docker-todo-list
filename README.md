@@ -79,3 +79,6 @@ Foi implementado a "conteinerização" da aplicação "Todo-List" que contém: f
 ## Desmontração Instalação Local
 
 ### *Em produção*...
+
+
+© Desenvolvido por [Felipe Seabra](https://www.linkedin.com/in/felipe-seabra/) 
